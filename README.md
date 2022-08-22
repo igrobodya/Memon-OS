@@ -4,9 +4,7 @@ So, to download you must click on link from what you want to download:
 1. from github          click on Code - Download ZIP
 
 2. from google drive    click on this link => en version: https://drive.google.com/drive/folders/1eE4nBEb5B2Rj7_78VEbi4PEGO_ShwAGy?usp=sharing
-
                                               ua version: https://drive.google.com/drive/folders/1avZpmoVPUBCNTIvaNBPsWDhLOJ64KjF_?usp=sharing
-
                                               ru version: https://drive.google.com/drive/folders/1uJYPHxctOXriHHm6W2agPwSFs6tKM0sI?usp=sharing
                                               
 3. from yandex drive    click on this link => en version: https://disk.yandex.ru/d/jc--k4Tx9aUetw
